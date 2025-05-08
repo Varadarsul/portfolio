@@ -1,4 +1,4 @@
 
-![Project Screenshot]("C:\Users\varad\OneDrive\Pictures\Screenshots\Screenshot 2025-05-08 194657.png")
+![Project Screenshot](https://github.com/Varadarsul/portfolio/blob/main/Screenshot%202025-05-08%20194657.png?raw=true)
 
 
